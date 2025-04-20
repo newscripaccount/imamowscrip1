@@ -41,7 +41,7 @@ Converted["_Mainframe"].Draggable = true
 Converted["_UICorner"].Parent = Converted["_Mainframe"]
 
 Converted["_Title"].Font = Enum.Font.GothamMedium
-Converted["_Title"].Text = "meowhook - Animation Man"
+Converted["_Title"].Text = "meowhook - fe sonicz"
 Converted["_Title"].TextColor3 = Color3.fromRGB(255, 255, 255)
 Converted["_Title"].TextSize = 18
 Converted["_Title"].BackgroundColor3 = Color3.fromRGB(255, 255, 255)
